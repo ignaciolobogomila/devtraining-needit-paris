@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="investment_type" table="dmn_demand" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>investment_type</element>
+            <name>dmn_demand</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-22 14:31:21</sys_created_on>
+            <sys_id>0b3f37a4db91e81009956dda4b9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>investment_type</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_dmn_demand_investment_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-22 14:31:21</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>investment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cost Reduction</label>
+            <language>en</language>
+            <name>dmn_demand</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-22 14:31:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf3f37a4db91e81009956dda4b9619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-22 14:31:21</sys_updated_on>
+            <value>cost_reduction</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>investment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>End User Experience</label>
+            <language>en</language>
+            <name>dmn_demand</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-22 14:31:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f3f37a4db91e81009956dda4b9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-22 14:31:21</sys_updated_on>
+            <value>end_user_experience</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>investment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal and Regulatory</label>
+            <language>en</language>
+            <name>dmn_demand</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-22 14:31:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>433f37a4db91e81009956dda4b9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-22 14:31:21</sys_updated_on>
+            <value>legal_and_regulatory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>investment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Revenue Generating</label>
+            <language>en</language>
+            <name>dmn_demand</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-22 14:31:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>873f37a4db91e81009956dda4b9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-22 14:31:21</sys_updated_on>
+            <value>revenue_generating</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>investment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Sustaining</label>
+            <language>en</language>
+            <name>dmn_demand</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-22 14:31:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb3f37a4db91e81009956dda4b9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-22 14:31:21</sys_updated_on>
+            <value>service_sustaining</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>investment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Strategic Enabler</label>
+            <language>en</language>
+            <name>dmn_demand</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-22 14:31:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>033f37a4db91e81009956dda4b9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-22 14:31:21</sys_updated_on>
+            <value>strategic_enabler</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
